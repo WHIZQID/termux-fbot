@@ -980,7 +980,7 @@ Create By _@fahmicog_`,
                         imageMessage: {
                            url: 'https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc',
                            mimetype: 'image/jpeg',
-                           caption: 'Simple Bot',
+                           caption: 'Youtube : Fahmi Cog',
                            fileSha256: '+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=',
                            fileLength: '28777',
                            height: 1080,
